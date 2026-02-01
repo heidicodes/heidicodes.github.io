@@ -1,0 +1,79 @@
+{
+    "Library": [
+        "Scott Library",
+        "Steacie Library",
+        "Osgoode Library",
+        "Bronfman Business Library",
+        "Osgoode Hall Law Library"
+    ],
+
+    "StudentCentres": [
+        "First Student Centre",
+        "Second Student Centre"
+    ],
+
+
+    "studySpaces": [
+        "Life Sciences Building",
+        "Victor Phillip Dahdaleh Building",
+        "Bergeron Centre for Engineering Excellence"
+    ],
+
+
+    "DiningHalls": [
+        "Winters Cafeteria",
+        "Stong Cafeteria"
+    ],
+
+    "YorkLanes": [
+        "Aroma Espresso Bar",
+        "Chaska",
+        "Cucina Italian Cafe",
+        "Firehouse Subs",
+        "Hero Burgers",
+        "La Diperie",
+        "La Prep",
+        "Marry Me Mochi",
+        "Pita Land",
+        "Popeyes Louisiana Kitchen ",
+        "Qoola Fresh",
+        "Sakura Japanese Foods",
+        "Sushi Shop",
+        "Thai Express",
+        "The Campus Bubble Tea",
+        "The Great Canadian Bagel",
+        "Z-Teca Mexican Eatery"
+    ],
+
+    "Centralsquare":[
+        "Central Square Market",
+        "Tim Hortons",
+        "Subway",
+        "K Roll",
+        "Starbucks",
+        "Pizza Pizza",
+        "Booster Juice"
+    ],
+
+    "TheQuad":[
+        "Burger King",
+        "Aroma Espresso",
+        "Booster Juice",
+        "Crepe Delicious",
+        "Mandarin 2 Go",
+        "Meltwich Food Co.",
+        "Omni Noodle",
+        "Pizza Studio",
+        "Salus Fresh Food",
+        "Subway",
+        "Chungchun Rice HotDog",
+        "GongCha",
+        "Fat Bastard Burrito",
+        "Chipotle Mexican Grill",
+        "Insomnia Cookies",
+        "Sushi Q",
+        "Papa Johns Pizza",
+        "Osmow's Shawarma"
+    ]
+
+}
