@@ -2,16 +2,21 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: #E8F6FF; 
+  background-image: url("https://live.staticflickr.com/65535/25712006794_b31974ba83_b.jpg");
+  background-size: cover;        
+  background-position: center;   
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   color: #333;
 }
 
 header {
-  background: #7FB3D5; 
+  background: #754a25; 
   color: white;
   padding: 1rem 0;
   font-size: 2rem;
   font-weight: bold;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 main {
@@ -36,7 +41,7 @@ h2 {
 
 .card {
   background: white;
-  border: 2px solid #AED6F1; 
+  border: 2px solid #704d21; 
   border-radius: 8px;
   padding: 1rem;
   width: 500px;            
@@ -58,7 +63,7 @@ h2 {
 .map-btn {
   display: inline-block;
   padding: 0.6rem 1.5rem;
-  background: #ff6f61;
+  background: #62300f;
   color: white;
   text-decoration: none;
   border-radius: 25px;
